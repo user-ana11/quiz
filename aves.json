@@ -1,0 +1,656 @@
+{
+  "title": "Aves",
+  "description": "50 preguntas sobre aves.",
+  "questions": [
+    {
+      "id": "22-1",
+      "question": "¿Qué ave es conocida por no poder volar y vivir en la Antártida?",
+      "options": [
+        "Emú",
+        "Kiwi",
+        "Pingüino emperador",
+        "Avestruz"
+      ],
+      "answer": "Pingüino emperador",
+      "hint": "Es el pingüino más alto y pesado.",
+      "image": "🐧"
+    },
+    {
+      "id": "22-2",
+      "question": "¿Cuál es el ave más grande del mundo?",
+      "options": [
+        "Cóndor",
+        "Emú",
+        "Avestruz",
+        "Albatros"
+      ],
+      "answer": "Avestruz",
+      "hint": "Puede correr a gran velocidad, pero no vuela.",
+      "image": "🪶"
+    },
+    {
+      "id": "22-3",
+      "question": "¿Qué ave puede imitar sonidos y palabras humanas?",
+      "options": [
+        "Águila",
+        "Cigüeña",
+        "Loro",
+        "Búho"
+      ],
+      "answer": "Loro",
+      "hint": "Muchas especies tienen una gran capacidad vocal.",
+      "image": "🦜"
+    },
+    {
+      "id": "22-4",
+      "question": "¿Qué ave rapaz tiene una vista extraordinaria y caza en picado?",
+      "options": [
+        "Pato",
+        "Paloma",
+        "Águila",
+        "Gaviota"
+      ],
+      "answer": "Águila",
+      "hint": "Es un depredador con pico curvado y garras fuertes.",
+      "image": "🦅"
+    },
+    {
+      "id": "22-5",
+      "question": "¿Qué ave es símbolo de la paz?",
+      "options": [
+        "Paloma",
+        "Halconcillo",
+        "Búho",
+        "Cuervo"
+      ],
+      "answer": "Paloma",
+      "hint": "A menudo se representa con una rama de olivo.",
+      "image": "🕊️"
+    },
+    {
+      "id": "22-6",
+      "question": "¿Qué ave nocturna puede girar mucho la cabeza?",
+      "options": [
+        "Gorrión",
+        "Flamenco",
+        "Golondrina",
+        "Búho"
+      ],
+      "answer": "Búho",
+      "hint": "Sus ojos miran hacia delante y su cuello es muy flexible.",
+      "image": "🦉"
+    },
+    {
+      "id": "22-7",
+      "question": "¿Qué ave tiene patas largas y suele alimentarse filtrando agua?",
+      "options": [
+        "Flamenco",
+        "Pico carpintero",
+        "Pavo real",
+        "Cuervo"
+      ],
+      "answer": "Flamenco",
+      "hint": "Su color rosado procede de pigmentos de su dieta.",
+      "image": "🦩"
+    },
+    {
+      "id": "22-8",
+      "question": "¿Qué ave construye nidos colgantes tejidos con fibras?",
+      "options": [
+        "Cisne",
+        "Águila",
+        "Tejedor",
+        "Pingüino"
+      ],
+      "answer": "Tejedor",
+      "hint": "El macho de muchas especies teje estructuras elaboradas.",
+      "image": "🪺"
+    },
+    {
+      "id": "22-9",
+      "question": "¿Qué ave puede volar hacia atrás?",
+      "options": [
+        "Cuervo",
+        "Golondrina",
+        "Águila",
+        "Colibrí"
+      ],
+      "answer": "Colibrí",
+      "hint": "Sus alas realizan un movimiento en forma de ocho.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-10",
+      "question": "¿Qué ave tiene una cola muy vistosa en abanico?",
+      "options": [
+        "Urogallo",
+        "Pavo real",
+        "Faisán",
+        "Pavo"
+      ],
+      "answer": "Pavo real",
+      "hint": "El macho despliega sus plumas para cortejar.",
+      "image": "🦚"
+    },
+    {
+      "id": "22-11",
+      "question": "¿Qué ave marina tiene una bolsa bajo el pico para pescar?",
+      "options": [
+        "Gaviota",
+        "Pelícano",
+        "Albatros",
+        "Frailecillo"
+      ],
+      "answer": "Pelícano",
+      "hint": "Su pico puede almacenar temporalmente peces y agua.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-12",
+      "question": "¿Qué ave es famosa por migrar largas distancias y formar una V?",
+      "options": [
+        "Kiwi",
+        "Ganso",
+        "Búho",
+        "Pavo real"
+      ],
+      "answer": "Ganso",
+      "hint": "La formación ayuda a ahorrar energía durante el vuelo.",
+      "image": "🪿"
+    },
+    {
+      "id": "22-13",
+      "question": "¿Qué ave utiliza su pico para taladrar troncos?",
+      "options": [
+        "Cigüeña",
+        "Martín pescador",
+        "Pico carpintero",
+        "Gaviota"
+      ],
+      "answer": "Pico carpintero",
+      "hint": "Busca insectos bajo la corteza.",
+      "image": "🪵"
+    },
+    {
+      "id": "22-14",
+      "question": "¿Qué ave australiana imita sonidos del entorno?",
+      "options": [
+        "Kiwi",
+        "Cacatúa",
+        "Emú",
+        "Ave lira"
+      ],
+      "answer": "Ave lira",
+      "hint": "Puede reproducir cantos y sonidos mecánicos.",
+      "image": "🎶"
+    },
+    {
+      "id": "22-15",
+      "question": "¿Qué ave tiene un pico enorme y colorido en forma de canoa?",
+      "options": [
+        "Tucán",
+        "Garza",
+        "Cotorra",
+        "Cálao"
+      ],
+      "answer": "Tucán",
+      "hint": "Vive en bosques tropicales de América.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-16",
+      "question": "¿Qué ave es famosa por entregar bebés en los cuentos?",
+      "options": [
+        "Garza",
+        "Cigüeña",
+        "Grulla",
+        "Ibis"
+      ],
+      "answer": "Cigüeña",
+      "hint": "Es un ave zancuda de patas largas.",
+      "image": "🪶"
+    },
+    {
+      "id": "22-17",
+      "question": "¿Qué ave no voladora de Nueva Zelanda tiene hábitos nocturnos?",
+      "options": [
+        "Kiwi",
+        "Emú",
+        "Casuario",
+        "Avestruz"
+      ],
+      "answer": "Kiwi",
+      "hint": "Tiene fosas nasales cerca de la punta del pico.",
+      "image": "🥝"
+    },
+    {
+      "id": "22-18",
+      "question": "¿Qué ave es conocida por su canto y su pecho rojo?",
+      "options": [
+        "Mirlo",
+        "Petirrojo",
+        "Gorrión",
+        "Jilguero"
+      ],
+      "answer": "Petirrojo",
+      "hint": "Es pequeño y suele visitar jardines.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-19",
+      "question": "¿Qué ave rapaz nocturna tiene un vuelo casi silencioso?",
+      "options": [
+        "Lechuza",
+        "Gaviota",
+        "Paloma",
+        "Pato"
+      ],
+      "answer": "Lechuza",
+      "hint": "Sus plumas especiales reducen el ruido del vuelo.",
+      "image": "🦉"
+    },
+    {
+      "id": "22-20",
+      "question": "¿Qué ave puede nadar y bucear, pero no volar?",
+      "options": [
+        "Cisne",
+        "Pato",
+        "Pingüino",
+        "Cormorán"
+      ],
+      "answer": "Pingüino",
+      "hint": "Sus alas se han convertido en aletas.",
+      "image": "🐧"
+    },
+    {
+      "id": "22-21",
+      "question": "¿Qué ave tiene una cresta roja y canta al amanecer?",
+      "options": [
+        "Faisán",
+        "Gallo",
+        "Pavo",
+        "Pato"
+      ],
+      "answer": "Gallo",
+      "hint": "Es el macho de la gallina doméstica.",
+      "image": "🐓"
+    },
+    {
+      "id": "22-22",
+      "question": "¿Qué ave tiene un cuello largo y suele vivir en humedales?",
+      "options": [
+        "Gorrión",
+        "Garza",
+        "Búho",
+        "Águila"
+      ],
+      "answer": "Garza",
+      "hint": "Caza peces quedándose quieta junto al agua.",
+      "image": "🪶"
+    },
+    {
+      "id": "22-23",
+      "question": "¿Qué ave es conocida por robar objetos brillantes en los relatos populares?",
+      "options": [
+        "Pato",
+        "Urraca",
+        "Flamenco",
+        "Cigüeña"
+      ],
+      "answer": "Urraca",
+      "hint": "Es un córvido muy inteligente.",
+      "image": "🐦‍⬛"
+    },
+    {
+      "id": "22-24",
+      "question": "¿Qué ave marina puede planear durante horas sobre el océano?",
+      "options": [
+        "Gallina",
+        "Pavo",
+        "Albatros",
+        "Gorrión"
+      ],
+      "answer": "Albatros",
+      "hint": "Tiene una de las mayores envergaduras alares.",
+      "image": "🌊"
+    },
+    {
+      "id": "22-25",
+      "question": "¿Qué ave tiene una bolsa gular roja y realiza exhibiciones?",
+      "options": [
+        "Pingüino",
+        "Búho",
+        "Fragata",
+        "Cisne"
+      ],
+      "answer": "Fragata",
+      "hint": "El macho infla una bolsa roja en el cuello.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-26",
+      "question": "¿Qué ave corre por las carreteras del desierto en dibujos animados?",
+      "options": [
+        "Codorniz",
+        "Cuervo",
+        "Perdiz",
+        "Correcaminos"
+      ],
+      "answer": "Correcaminos",
+      "hint": "Es un ave terrestre real de América.",
+      "image": "🏜️"
+    },
+    {
+      "id": "22-27",
+      "question": "¿Qué ave es famosa por su plumaje rosa y patas largas?",
+      "options": [
+        "Ibis",
+        "Grulla",
+        "Flamenco",
+        "Cigüeña"
+      ],
+      "answer": "Flamenco",
+      "hint": "Se alimenta de pequeños organismos acuáticos.",
+      "image": "🦩"
+    },
+    {
+      "id": "22-28",
+      "question": "¿Qué ave utiliza ramas para construir un nido grande en árboles?",
+      "options": [
+        "Colibrí",
+        "Águila",
+        "Vencejo",
+        "Martín pescador"
+      ],
+      "answer": "Águila",
+      "hint": "Muchas especies construyen nidos llamados nidos de águila.",
+      "image": "🦅"
+    },
+    {
+      "id": "22-29",
+      "question": "¿Qué ave tiene un pico ancho y plano para filtrar alimento?",
+      "options": [
+        "Águila",
+        "Cuervo",
+        "Pato",
+        "Búho"
+      ],
+      "answer": "Pato",
+      "hint": "Su pico posee pequeñas laminillas filtradoras.",
+      "image": "🦆"
+    },
+    {
+      "id": "22-30",
+      "question": "¿Qué ave es capaz de permanecer suspendida en el aire batiendo sus alas?",
+      "options": [
+        "Albatros",
+        "Colibrí",
+        "Pingüino",
+        "Avestruz"
+      ],
+      "answer": "Colibrí",
+      "hint": "Su metabolismo es extremadamente rápido.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-31",
+      "question": "¿Qué ave negra es conocida por su inteligencia y uso de herramientas?",
+      "options": [
+        "Paloma",
+        "Cisne",
+        "Gaviota",
+        "Cuervo"
+      ],
+      "answer": "Cuervo",
+      "hint": "Puede resolver problemas y reconocer rostros.",
+      "image": "🐦‍⬛"
+    },
+    {
+      "id": "22-32",
+      "question": "¿Qué ave doméstica pone huevos que consumimos habitualmente?",
+      "options": [
+        "Pavo",
+        "Pato",
+        "Gallina",
+        "Ganso"
+      ],
+      "answer": "Gallina",
+      "hint": "La hembra cacarea y el macho es el gallo.",
+      "image": "🐔"
+    },
+    {
+      "id": "22-33",
+      "question": "¿Qué ave tiene una gran bolsa bajo el pico y pesca en grupo?",
+      "options": [
+        "Gaviota",
+        "Frailecillo",
+        "Pelícano",
+        "Albatros"
+      ],
+      "answer": "Pelícano",
+      "hint": "Su bolsa no sirve para guardar comida durante mucho tiempo.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-34",
+      "question": "¿Qué ave es famosa por su danza de cortejo y su cola larga?",
+      "options": [
+        "Gorrión",
+        "Ave del paraíso",
+        "Buitre",
+        "Cisne"
+      ],
+      "answer": "Ave del paraíso",
+      "hint": "Muchas especies viven en Nueva Guinea.",
+      "image": "🌺"
+    },
+    {
+      "id": "22-35",
+      "question": "¿Qué ave carroñera tiene la cabeza desnuda y planea en círculos?",
+      "options": [
+        "Buitre",
+        "Colibrí",
+        "Petirrojo",
+        "Pato"
+      ],
+      "answer": "Buitre",
+      "hint": "Aprovecha las corrientes térmicas para volar.",
+      "image": "🦅"
+    },
+    {
+      "id": "22-36",
+      "question": "¿Qué ave tiene un pico en forma de cuchara?",
+      "options": [
+        "Pico carpintero",
+        "Espátula",
+        "Águila",
+        "Tucán"
+      ],
+      "answer": "Espátula",
+      "hint": "Barre el agua con el pico para encontrar alimento.",
+      "image": "🥄"
+    },
+    {
+      "id": "22-37",
+      "question": "¿Qué ave es famosa por bucear y capturar peces bajo el agua?",
+      "options": [
+        "Avestruz",
+        "Gorrión",
+        "Cormorán",
+        "Gallina"
+      ],
+      "answer": "Cormorán",
+      "hint": "A menudo se le ve secando sus alas extendidas.",
+      "image": "🌊"
+    },
+    {
+      "id": "22-38",
+      "question": "¿Qué ave tiene un canto que anuncia la primavera en muchos lugares?",
+      "options": [
+        "Búho",
+        "Pingüino",
+        "Avestruz",
+        "Golondrina"
+      ],
+      "answer": "Golondrina",
+      "hint": "Es migratoria y captura insectos al vuelo.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-39",
+      "question": "¿Qué ave tiene plumas impermeables y patas palmeadas?",
+      "options": [
+        "Águila",
+        "Pato",
+        "Búho",
+        "Gallo"
+      ],
+      "answer": "Pato",
+      "hint": "Sus patas le ayudan a impulsarse en el agua.",
+      "image": "🦆"
+    },
+    {
+      "id": "22-40",
+      "question": "¿Qué ave puede alcanzar gran velocidad en un picado?",
+      "options": [
+        "Cóndor",
+        "Pavo real",
+        "Halcón peregrino",
+        "Cisne"
+      ],
+      "answer": "Halcón peregrino",
+      "hint": "Es uno de los animales más rápidos en caída.",
+      "image": "🦅"
+    },
+    {
+      "id": "22-41",
+      "question": "¿Qué ave de gran tamaño tiene una protuberancia sobre el pico?",
+      "options": [
+        "Casuario",
+        "Kiwi",
+        "Petirrojo",
+        "Frailecillo"
+      ],
+      "answer": "Casuario",
+      "hint": "Vive en bosques tropicales de Australia y Nueva Guinea.",
+      "image": "🌴"
+    },
+    {
+      "id": "22-42",
+      "question": "¿Qué ave blanca es conocida por su cuello en forma de S?",
+      "options": [
+        "Cuervo",
+        "Búho",
+        "Cisne",
+        "Flamenco"
+      ],
+      "answer": "Cisne",
+      "hint": "Suele vivir en lagos y estanques.",
+      "image": "🦢"
+    },
+    {
+      "id": "22-43",
+      "question": "¿Qué ave pequeña tiene una mancha amarilla en la cabeza y puede cantar?",
+      "options": [
+        "Albatros",
+        "Carbonero",
+        "Pingüino",
+        "Avestruz"
+      ],
+      "answer": "Carbonero",
+      "hint": "Es frecuente en bosques y jardines europeos.",
+      "image": "🐦"
+    },
+    {
+      "id": "22-44",
+      "question": "¿Qué ave se alimenta de néctar y ayuda a polinizar flores?",
+      "options": [
+        "Colibrí",
+        "Cigüeña",
+        "Cuervo",
+        "Buitre"
+      ],
+      "answer": "Colibrí",
+      "hint": "Su lengua puede alcanzar el néctar dentro de las flores.",
+      "image": "🌺"
+    },
+    {
+      "id": "22-45",
+      "question": "¿Qué ave tiene un pico cruzado adaptado para extraer semillas de piñas?",
+      "options": [
+        "Tucán",
+        "Garza",
+        "Piquituerto",
+        "Pato"
+      ],
+      "answer": "Piquituerto",
+      "hint": "Las puntas de su pico se cruzan.",
+      "image": "🌲"
+    },
+    {
+      "id": "22-46",
+      "question": "¿Qué ave es un símbolo habitual de sabiduría?",
+      "options": [
+        "Gallina",
+        "Paloma",
+        "Gaviota",
+        "Búho"
+      ],
+      "answer": "Búho",
+      "hint": "Aparece junto a Atenea en la mitología griega.",
+      "image": "🦉"
+    },
+    {
+      "id": "22-47",
+      "question": "¿Qué ave puede imitar la voz humana y suele tener una cresta?",
+      "options": [
+        "Garza",
+        "Cacatúa",
+        "Cigüeña",
+        "Albatros"
+      ],
+      "answer": "Cacatúa",
+      "hint": "Es un loro originario de Australasia.",
+      "image": "🦜"
+    },
+    {
+      "id": "22-48",
+      "question": "¿Qué ave vive en colonias y se zambulle desde acantilados para pescar?",
+      "options": [
+        "Búho",
+        "Alcatraz",
+        "Gallo",
+        "Urraca"
+      ],
+      "answer": "Alcatraz",
+      "hint": "Sus espectaculares picados terminan en el mar.",
+      "image": "🌊"
+    },
+    {
+      "id": "22-49",
+      "question": "¿Qué ave tiene un pico largo y curvado hacia abajo para buscar alimento en el barro?",
+      "options": [
+        "Tucán",
+        "Pato",
+        "Ibis",
+        "Águila"
+      ],
+      "answer": "Ibis",
+      "hint": "Algunas especies son sagradas en el antiguo Egipto.",
+      "image": "🪶"
+    },
+    {
+      "id": "22-50",
+      "question": "¿Qué ave nocturna tiene discos faciales que dirigen el sonido a sus oídos?",
+      "options": [
+        "Gorrión",
+        "Búho",
+        "Pavo",
+        "Gaviota"
+      ],
+      "answer": "Búho",
+      "hint": "Su cara ayuda a localizar presas en la oscuridad.",
+      "image": "🦉"
+    }
+  ]
+}

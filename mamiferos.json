@@ -1,0 +1,656 @@
+{
+  "title": "Mamíferos",
+  "description": "50 preguntas sobre mamíferos.",
+  "questions": [
+    {
+      "id": "11-1",
+      "question": "¿Cuál es el mamífero terrestre más grande?",
+      "options": [
+        "Elefante africano",
+        "Jirafa",
+        "Rinoceronte blanco",
+        "Hipopótamo"
+      ],
+      "answer": "Elefante africano",
+      "hint": "Puede superar las seis toneladas.",
+      "image": "🐘"
+    },
+    {
+      "id": "11-2",
+      "question": "¿Qué mamífero puede volar de forma activa?",
+      "options": [
+        "Ardilla voladora",
+        "Murciélago",
+        "Lémur",
+        "Colugo"
+      ],
+      "answer": "Murciélago",
+      "hint": "Es un mamífero nocturno con alas membranosas.",
+      "image": "🦇"
+    },
+    {
+      "id": "11-3",
+      "question": "¿Qué animal es famoso por llevar a sus crías en una bolsa?",
+      "options": [
+        "Canguro",
+        "Dingo",
+        "Wombat",
+        "Koala"
+      ],
+      "answer": "Canguro",
+      "hint": "Es un marsupial de Australia.",
+      "image": "🦘"
+    },
+    {
+      "id": "11-4",
+      "question": "¿Cuál es el mamífero más rápido en tierra?",
+      "options": [
+        "Antílope",
+        "Caballo",
+        "Guepardo",
+        "León"
+      ],
+      "answer": "Guepardo",
+      "hint": "Tiene manchas negras y acelera muchísimo.",
+      "image": "🐆"
+    },
+    {
+      "id": "11-5",
+      "question": "¿Qué mamífero marino utiliza ecolocalización?",
+      "options": [
+        "Manatí",
+        "Nutria marina",
+        "Delfín",
+        "Foca"
+      ],
+      "answer": "Delfín",
+      "hint": "Emite sonidos y escucha sus ecos.",
+      "image": "🐬"
+    },
+    {
+      "id": "11-6",
+      "question": "¿Cuál de estos mamíferos pone huevos?",
+      "options": [
+        "Topo",
+        "Castor",
+        "Nutria",
+        "Ornitorrinco"
+      ],
+      "answer": "Ornitorrinco",
+      "hint": "Tiene pico parecido al de un pato.",
+      "image": "🦆"
+    },
+    {
+      "id": "11-7",
+      "question": "¿Qué animal tiene el cuello especialmente largo?",
+      "options": [
+        "Camello",
+        "Jirafa",
+        "Alce",
+        "Cebra"
+      ],
+      "answer": "Jirafa",
+      "hint": "Su lengua puede ser muy larga y oscura.",
+      "image": "🦒"
+    },
+    {
+      "id": "11-8",
+      "question": "¿Qué mamífero es conocido por construir presas?",
+      "options": [
+        "Nutria",
+        "Mapache",
+        "Tejón",
+        "Castor"
+      ],
+      "answer": "Castor",
+      "hint": "Usa ramas y barro para modificar ríos.",
+      "image": "🦫"
+    },
+    {
+      "id": "11-9",
+      "question": "¿Qué felino suele vivir en grupos llamados manadas?",
+      "options": [
+        "Tigre",
+        "Leopardo",
+        "Puma",
+        "León"
+      ],
+      "answer": "León",
+      "hint": "El macho puede tener una gran melena.",
+      "image": "🦁"
+    },
+    {
+      "id": "11-10",
+      "question": "¿Qué mamífero tiene una trompa?",
+      "options": [
+        "Jabalí",
+        "Elefante",
+        "Rinoceronte",
+        "Tapir"
+      ],
+      "answer": "Elefante",
+      "hint": "La utiliza para oler, beber y agarrar objetos.",
+      "image": "🐘"
+    },
+    {
+      "id": "11-11",
+      "question": "¿Cuál es el mamífero más grande del planeta?",
+      "options": [
+        "Ballena azul",
+        "Tiburón ballena",
+        "Cachalote",
+        "Rorcual común"
+      ],
+      "answer": "Ballena azul",
+      "hint": "Es más grande que cualquier dinosaurio conocido.",
+      "image": "🐋"
+    },
+    {
+      "id": "11-12",
+      "question": "¿Qué animal tiene púas y puede enrollarse en una bola?",
+      "options": [
+        "Topo",
+        "Erizo",
+        "Armadillo",
+        "Puercoespín"
+      ],
+      "answer": "Erizo",
+      "hint": "Sus púas son pelos modificados.",
+      "image": "🦔"
+    },
+    {
+      "id": "11-13",
+      "question": "¿Qué mamífero suele dormir colgado boca abajo?",
+      "options": [
+        "Lémur",
+        "Murciélago",
+        "Perezoso",
+        "Mono araña"
+      ],
+      "answer": "Murciélago",
+      "hint": "Se sujeta con las patas mientras descansa.",
+      "image": "🦇"
+    },
+    {
+      "id": "11-14",
+      "question": "¿Qué animal es conocido por su lentitud y vivir en árboles?",
+      "options": [
+        "Lémur",
+        "Panda rojo",
+        "Koala",
+        "Perezoso"
+      ],
+      "answer": "Perezoso",
+      "hint": "Pasa gran parte del tiempo colgado de ramas.",
+      "image": "🦥"
+    },
+    {
+      "id": "11-15",
+      "question": "¿Qué mamífero tiene rayas blancas y negras?",
+      "options": [
+        "Okapi",
+        "Cebra",
+        "Tapir",
+        "Antílope"
+      ],
+      "answer": "Cebra",
+      "hint": "Cada individuo tiene un patrón de rayas único.",
+      "image": "🦓"
+    },
+    {
+      "id": "11-16",
+      "question": "¿Qué animal es el principal símbolo de China y come bambú?",
+      "options": [
+        "Koala",
+        "Panda gigante",
+        "Oso pardo",
+        "Panda rojo"
+      ],
+      "answer": "Panda gigante",
+      "hint": "Aunque pertenece al orden de los carnívoros, come sobre todo plantas.",
+      "image": "🐼"
+    },
+    {
+      "id": "11-17",
+      "question": "¿Qué mamífero tiene una lengua muy larga para comer hormigas?",
+      "options": [
+        "Armadillo",
+        "Suricata",
+        "Oso hormiguero",
+        "Pangolín"
+      ],
+      "answer": "Oso hormiguero",
+      "hint": "No tiene dientes y usa una lengua pegajosa.",
+      "image": "🐜"
+    },
+    {
+      "id": "11-18",
+      "question": "¿Qué animal del desierto almacena grasa en sus jorobas?",
+      "options": [
+        "Cabra montés",
+        "Llama",
+        "Dromedario",
+        "Camello"
+      ],
+      "answer": "Camello",
+      "hint": "La reserva está en sus jorobas, no es agua.",
+      "image": "🐫"
+    },
+    {
+      "id": "11-19",
+      "question": "¿Qué mamífero africano tiene un cuerno o dos sobre el hocico?",
+      "options": [
+        "Tapir",
+        "Rinoceronte",
+        "Hipopótamo",
+        "Búfalo"
+      ],
+      "answer": "Rinoceronte",
+      "hint": "Su nombre alude a un cuerno en la nariz.",
+      "image": "🦏"
+    },
+    {
+      "id": "11-20",
+      "question": "¿Qué animal es famoso por cambiar de color para camuflarse?",
+      "options": [
+        "Iguana",
+        "Salamandra",
+        "Gecko",
+        "Camaleón"
+      ],
+      "answer": "Camaleón",
+      "hint": "Es un reptil, no un mamífero.",
+      "image": "🦎"
+    },
+    {
+      "id": "11-21",
+      "question": "¿Qué mamífero tiene una cola prensil y vive en América?",
+      "options": [
+        "Babuino",
+        "Mandril",
+        "Mono araña",
+        "Gorila"
+      ],
+      "answer": "Mono araña",
+      "hint": "Puede usar la cola como una quinta extremidad.",
+      "image": "🐒"
+    },
+    {
+      "id": "11-22",
+      "question": "¿Cuál de estos animales es un marsupial australiano?",
+      "options": [
+        "Koala",
+        "Lémur",
+        "Panda gigante",
+        "Mapache"
+      ],
+      "answer": "Koala",
+      "hint": "Pasa muchas horas descansando en eucaliptos.",
+      "image": "🐨"
+    },
+    {
+      "id": "11-23",
+      "question": "¿Qué mamífero acuático tiene bigotes y aletas?",
+      "options": [
+        "Nutria",
+        "Castor",
+        "Foca",
+        "Capibara"
+      ],
+      "answer": "Foca",
+      "hint": "Descansa en costas y zonas de hielo.",
+      "image": "🦭"
+    },
+    {
+      "id": "11-24",
+      "question": "¿Qué animal es el roedor más grande del mundo?",
+      "options": [
+        "Marmota",
+        "Capibara",
+        "Castor",
+        "Puercoespín"
+      ],
+      "answer": "Capibara",
+      "hint": "Es semiacuático y vive en Sudamérica.",
+      "image": "🐹"
+    },
+    {
+      "id": "11-25",
+      "question": "¿Qué mamífero africano es conocido por sus grandes orejas?",
+      "options": [
+        "Chacal",
+        "Zorro fénec",
+        "Lobo",
+        "Hiena"
+      ],
+      "answer": "Zorro fénec",
+      "hint": "Sus orejas le ayudan a disipar calor.",
+      "image": "🦊"
+    },
+    {
+      "id": "11-26",
+      "question": "¿Qué animal tiene una melena alrededor de la cabeza?",
+      "options": [
+        "Tigre",
+        "Jaguar",
+        "León",
+        "Lince"
+      ],
+      "answer": "León",
+      "hint": "Es el único gran felino que vive habitualmente en grupos sociales.",
+      "image": "🦁"
+    },
+    {
+      "id": "11-27",
+      "question": "¿Qué mamífero se orienta usando un sonar natural?",
+      "options": [
+        "Comadreja",
+        "Murciélago",
+        "Musaraña",
+        "Ardilla"
+      ],
+      "answer": "Murciélago",
+      "hint": "La ecolocalización le ayuda a cazar insectos de noche.",
+      "image": "🦇"
+    },
+    {
+      "id": "11-28",
+      "question": "¿Qué animal tiene manchas y es pariente cercano de la jirafa?",
+      "options": [
+        "Antílope",
+        "Cebra",
+        "Tapir",
+        "Okapi"
+      ],
+      "answer": "Okapi",
+      "hint": "Vive en las selvas de la República Democrática del Congo.",
+      "image": "🦓"
+    },
+    {
+      "id": "11-29",
+      "question": "¿Qué mamífero puede regenerar partes de su cola?",
+      "options": [
+        "Elefantes",
+        "Jirafas",
+        "Algunos roedores",
+        "Caballos"
+      ],
+      "answer": "Algunos roedores",
+      "hint": "La regeneración completa de la cola no es común en mamíferos.",
+      "image": "🐭"
+    },
+    {
+      "id": "11-30",
+      "question": "¿Qué animal es conocido como el rey de la selva, aunque vive en sabanas?",
+      "options": [
+        "Tigre",
+        "León",
+        "Gorila",
+        "Jaguar"
+      ],
+      "answer": "León",
+      "hint": "Su hábitat típico africano son las sabanas.",
+      "image": "🦁"
+    },
+    {
+      "id": "11-31",
+      "question": "¿Qué mamífero tiene una nariz muy sensible y excava túneles?",
+      "options": [
+        "Topo",
+        "Ardilla",
+        "Comadreja",
+        "Erizo"
+      ],
+      "answer": "Topo",
+      "hint": "Tiene patas delanteras adaptadas para cavar.",
+      "image": "🐾"
+    },
+    {
+      "id": "11-32",
+      "question": "¿Qué mamífero produce lana usada en tejidos?",
+      "options": [
+        "Llama",
+        "Ciervo",
+        "Cabra",
+        "Oveja"
+      ],
+      "answer": "Oveja",
+      "hint": "Se esquila periódicamente en muchas razas domésticas.",
+      "image": "🐑"
+    },
+    {
+      "id": "11-33",
+      "question": "¿Qué animal es famoso por sus saltos y sus largas orejas?",
+      "options": [
+        "Erizo",
+        "Nutria",
+        "Liebre",
+        "Topo"
+      ],
+      "answer": "Liebre",
+      "hint": "Puede correr muy rápido y tiene patas traseras potentes.",
+      "image": "🐇"
+    },
+    {
+      "id": "11-34",
+      "question": "¿Qué mamífero vive en colonias y construye madrigueras?",
+      "options": [
+        "Puma",
+        "Lince",
+        "Suricata",
+        "Oso polar"
+      ],
+      "answer": "Suricata",
+      "hint": "Vive en grupos y suele vigilar erguido.",
+      "image": "🦦"
+    },
+    {
+      "id": "11-35",
+      "question": "¿Qué animal tiene una bolsa bajo la barbilla para guardar alimento?",
+      "options": [
+        "Ratón",
+        "Hámster",
+        "Cobaya",
+        "Conejo"
+      ],
+      "answer": "Hámster",
+      "hint": "Sus abazones son bolsas en las mejillas.",
+      "image": "🐹"
+    },
+    {
+      "id": "11-36",
+      "question": "¿Qué mamífero tiene el pelaje blanco y vive en el Ártico?",
+      "options": [
+        "Oso panda",
+        "Oso negro",
+        "Lobo ártico",
+        "Oso polar"
+      ],
+      "answer": "Oso polar",
+      "hint": "Es un excelente nadador del océano Ártico.",
+      "image": "🐻‍❄️"
+    },
+    {
+      "id": "11-37",
+      "question": "¿Qué animal es conocido por formar grandes manadas migratorias en África?",
+      "options": [
+        "Panda",
+        "Ñu",
+        "Gorila",
+        "Lémur"
+      ],
+      "answer": "Ñu",
+      "hint": "Sus migraciones siguen las lluvias y los pastos.",
+      "image": "🐃"
+    },
+    {
+      "id": "11-38",
+      "question": "¿Qué mamífero tiene escamas y come hormigas?",
+      "options": [
+        "Pangolín",
+        "Puercoespín",
+        "Armadillo",
+        "Erizo"
+      ],
+      "answer": "Pangolín",
+      "hint": "Es el único mamífero cubierto de escamas de queratina.",
+      "image": "🐾"
+    },
+    {
+      "id": "11-39",
+      "question": "¿Qué animal marino tiene un colmillo largo en espiral?",
+      "options": [
+        "Beluga",
+        "Morsa",
+        "Cachalote",
+        "Narval"
+      ],
+      "answer": "Narval",
+      "hint": "Su colmillo es en realidad un diente.",
+      "image": "🐋"
+    },
+    {
+      "id": "11-40",
+      "question": "¿Qué mamífero es famoso por su memoria y sus grandes orejas?",
+      "options": [
+        "Hipopótamo",
+        "Elefante",
+        "Rinoceronte",
+        "Búfalo"
+      ],
+      "answer": "Elefante",
+      "hint": "Se comunica también mediante sonidos de baja frecuencia.",
+      "image": "🐘"
+    },
+    {
+      "id": "11-41",
+      "question": "¿Qué animal tiene una máscara negra alrededor de los ojos?",
+      "options": [
+        "Lobo",
+        "Tejón",
+        "Zorro rojo",
+        "Mapache"
+      ],
+      "answer": "Mapache",
+      "hint": "Es un mamífero omnívoro de cola anillada.",
+      "image": "🦝"
+    },
+    {
+      "id": "11-42",
+      "question": "¿Qué mamífero africano se alimenta principalmente de hojas de acacia?",
+      "options": [
+        "Jirafa",
+        "Cebra",
+        "Hiena",
+        "León"
+      ],
+      "answer": "Jirafa",
+      "hint": "Su lengua resistente le permite alcanzar hojas espinosas.",
+      "image": "🦒"
+    },
+    {
+      "id": "11-43",
+      "question": "¿Qué animal tiene una cola aplanada que usa como timón?",
+      "options": [
+        "Castor",
+        "Marmota",
+        "Zorro",
+        "Nutria"
+      ],
+      "answer": "Castor",
+      "hint": "También golpea el agua con ella para alertar.",
+      "image": "🦫"
+    },
+    {
+      "id": "11-44",
+      "question": "¿Qué primate es el más grande?",
+      "options": [
+        "Orangután",
+        "Gorila",
+        "Gibón",
+        "Chimpancé"
+      ],
+      "answer": "Gorila",
+      "hint": "Los machos adultos pueden superar los 150 kg.",
+      "image": "🦍"
+    },
+    {
+      "id": "11-45",
+      "question": "¿Qué mamífero africano tiene rayas verticales y vive en bosques?",
+      "options": [
+        "Jirafa",
+        "Okapi",
+        "Hiena",
+        "Cebra"
+      ],
+      "answer": "Okapi",
+      "hint": "Es pariente de la jirafa, aunque parece una mezcla de animales.",
+      "image": "🦓"
+    },
+    {
+      "id": "11-46",
+      "question": "¿Qué animal tiene una nariz alargada y flexible llamada probóscide?",
+      "options": [
+        "Puercoespín",
+        "Tapir",
+        "Antílope",
+        "Jabalí"
+      ],
+      "answer": "Tapir",
+      "hint": "Su hocico corto y móvil le ayuda a recoger hojas.",
+      "image": "🐗"
+    },
+    {
+      "id": "11-47",
+      "question": "¿Qué mamífero puede permanecer mucho tiempo sin beber gracias a adaptaciones del desierto?",
+      "options": [
+        "Capibara",
+        "Dromedario",
+        "Castor",
+        "Nutria"
+      ],
+      "answer": "Dromedario",
+      "hint": "Tiene una sola joroba y tolera grandes variaciones de hidratación.",
+      "image": "🐪"
+    },
+    {
+      "id": "11-48",
+      "question": "¿Qué mamífero es famoso por su aullido y vive en manadas?",
+      "options": [
+        "Lince",
+        "Lobo",
+        "Zorro",
+        "Panda rojo"
+      ],
+      "answer": "Lobo",
+      "hint": "Sus aullidos ayudan a comunicarse a larga distancia.",
+      "image": "🐺"
+    },
+    {
+      "id": "11-49",
+      "question": "¿Qué animal tiene una armadura de placas y puede hacerse una bola?",
+      "options": [
+        "Pangolín",
+        "Erizo",
+        "Armadillo",
+        "Castor"
+      ],
+      "answer": "Armadillo",
+      "hint": "Su nombre significa pequeño acorazado.",
+      "image": "🛡️"
+    },
+    {
+      "id": "11-50",
+      "question": "¿Qué mamífero marino usa herramientas para abrir moluscos?",
+      "options": [
+        "Foca",
+        "Delfín",
+        "Manatí",
+        "Nutria marina"
+      ],
+      "answer": "Nutria marina",
+      "hint": "Puede usar piedras sobre su vientre como yunque.",
+      "image": "🦦"
+    }
+  ]
+}

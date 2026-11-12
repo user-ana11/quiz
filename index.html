@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>AnimalQuiz</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <a href="#" id="homeLink">🐾 AnimalQuiz</a>
+
+        <span>
+            ZooQuiz · Aprende, juega y respeta a los animales 🌿
+        </span>
+    </header>
+
+
+    <main>
+
+        <section id="homeScreen">
+
+            <div class="hero">
+
+                <div>
+                    <small>RETO ANIMAL</small>
+
+                    <h1>
+                        ¿Cuánto sabes<br>
+                        de animales?
+                    </h1>
+
+                    <p>
+                        Elige una categoría y responde
+                        10 preguntas aleatorias.
+                    </p>
+
+                    <label>
+                        Tu nombre para el ranking
+
+                        <input
+                            id="playerName"
+                            maxlength="22"
+                            placeholder="Escribe tu nombre"
+                        >
+                    </label>
+
+                </div>
+
+                <div class="heroArt">
+                    🦁 🦜 🐢
+                </div>
+
+            </div>
+
+            <h2>Elige tu quiz</h2>
+
+            <div class="grid">
+
+                <button
+                    class="quiz-card"
+                    data-file="mamiferos.json"
+                >
+                    🐘
+                    <b>Mamíferos</b>
+                    <small>50 preguntas</small>
+                </button>
+
+
+                <button
+                    class="quiz-card"
+                    data-file="aves.json"
+                >
+                    🦉
+                    <b>Aves</b>
+                    <small>50 preguntas</small>
+                </button>
+
+
+                <button
+                    class="quiz-card"
+                    data-file="reptiles.json"
+                >
+                    🐊
+                    <b>Reptiles</b>
+                    <small>50 preguntas</small>
+                </button>
+
+            </div>
+
+            <section class="ranking">
+
+                <h2>
+                    🏆 Ranking local
+
+                    <button id="clearRanking">
+                        Borrar ranking
+                    </button>
+                </h2>
+
+                <ol id="rankingList"></ol>
+
+                <small>
+                    Los resultados se guardan en este navegador.
+                </small>
+
+            </section>
+
+        </section>
+
+        <section id="quizScreen" class="hidden">
+
+            <div class="quizTop">
+
+                <button id="quitQuiz">
+                    ← Menú
+                </button>
+
+                <span id="categoryLabel"></span>
+
+                <span id="progressLabel"></span>
+
+            </div>
+
+            <div class="track">
+
+                <div id="progressBar"></div>
+
+            </div>
+
+            <article class="card">
+
+                <div class="meta">
+
+                    <span id="questionNumber"></span>
+
+                    <span id="scoreLabel">
+                        ⭐ 0 puntos
+                    </span>
+
+                </div>
+
+                <div id="questionImage" class="animal"></div>
+
+                <h2 id="questionText"></h2>
+
+                <div id="answers" class="answers"></div>
+
+                <p id="feedback" aria-live="polite"></p>
+
+                <div class="actions">
+
+                    <button id="hintButton">
+                        💡 Pista
+                    </button>
+
+                    <button id="confirmButton" disabled>
+                        Comprobar respuesta
+                    </button>
+
+                </div>
+
+            </article>
+
+        </section>
+
+        <section id="resultScreen" class="hidden">
+
+            <div class="card">
+
+                <div class="animal">
+                    🏆
+                </div>
+
+                <small>
+                    QUIZ COMPLETADO
+                </small>
+
+                <h1 id="resultTitle"></h1>
+
+
+                <div class="score">
+
+                    <strong id="finalScore">0</strong>
+
+                    / 10
+
+                </div>
+
+
+                <p id="resultMessage"></p>
+
+                <button id="playAgain">
+                    Repetir quiz
+                </button>
+
+                <button id="backHome">
+                    Volver al menú
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

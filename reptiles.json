@@ -1,0 +1,656 @@
+{
+  "title": "Reptiles",
+  "description": "50 preguntas sobre reptiles.",
+  "questions": [
+    {
+      "id": "33-1",
+      "question": "¿Qué reptil cambia de color para comunicarse y camuflarse?",
+      "options": [
+        "Caimán",
+        "Camaleón",
+        "Gecko",
+        "Iguana"
+      ],
+      "answer": "Camaleón",
+      "hint": "Sus ojos pueden moverse de forma independiente.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-2",
+      "question": "¿Cuál es el reptil vivo más grande?",
+      "options": [
+        "Tortuga laúd",
+        "Cocodrilo de agua salada",
+        "Dragón de Komodo",
+        "Anaconda"
+      ],
+      "answer": "Cocodrilo de agua salada",
+      "hint": "Puede superar los seis metros de longitud.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-3",
+      "question": "¿Qué reptil lleva su casa a cuestas?",
+      "options": [
+        "Tortuga",
+        "Iguana",
+        "Cocodrilo",
+        "Serpiente"
+      ],
+      "answer": "Tortuga",
+      "hint": "Su caparazón forma parte de su esqueleto.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-4",
+      "question": "¿Qué serpiente es famosa por su gran tamaño y constricción?",
+      "options": [
+        "Mamba negra",
+        "Anaconda verde",
+        "Cobra real",
+        "Víbora"
+      ],
+      "answer": "Anaconda verde",
+      "hint": "Vive en humedales de Sudamérica.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-5",
+      "question": "¿Qué reptil puede desprenderse de su cola para escapar?",
+      "options": [
+        "Gecko",
+        "Tuátara",
+        "Cocodrilo",
+        "Tortuga"
+      ],
+      "answer": "Gecko",
+      "hint": "La cola puede regenerarse en muchas especies.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-6",
+      "question": "¿Qué reptil tiene una lengua bífida que utiliza para captar olores?",
+      "options": [
+        "Iguana",
+        "Tortuga",
+        "Serpiente",
+        "Cocodrilo"
+      ],
+      "answer": "Serpiente",
+      "hint": "Lleva partículas olorosas al órgano de Jacobson.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-7",
+      "question": "¿Qué lagarto enorme vive en algunas islas de Indonesia?",
+      "options": [
+        "Camaleón",
+        "Dragón de Komodo",
+        "Iguana verde",
+        "Gecko leopardo"
+      ],
+      "answer": "Dragón de Komodo",
+      "hint": "Es el lagarto más grande que vive actualmente.",
+      "image": "🐉"
+    },
+    {
+      "id": "33-8",
+      "question": "¿Qué reptil marino visita playas para poner sus huevos?",
+      "options": [
+        "Cocodrilo",
+        "Iguana",
+        "Serpiente marina",
+        "Tortuga marina"
+      ],
+      "answer": "Tortuga marina",
+      "hint": "Las hembras suelen regresar a zonas de anidación.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-9",
+      "question": "¿Qué reptil tiene una cresta de espinas a lo largo del lomo?",
+      "options": [
+        "Gecko",
+        "Serpiente",
+        "Iguana",
+        "Camaleón"
+      ],
+      "answer": "Iguana",
+      "hint": "Muchas especies son herbívoras y toman el sol.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-10",
+      "question": "¿Qué animal es un anfibio, no un reptil?",
+      "options": [
+        "Culebra",
+        "Lagartija",
+        "Salamandra",
+        "Tortuga"
+      ],
+      "answer": "Salamandra",
+      "hint": "Su piel suele ser húmeda y permeable.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-11",
+      "question": "¿Qué reptil tiene un caparazón blando y vive en agua dulce?",
+      "options": [
+        "Tortuga de caparazón blando",
+        "Caimán",
+        "Iguana",
+        "Tortuga mediterránea"
+      ],
+      "answer": "Tortuga de caparazón blando",
+      "hint": "Su caparazón es flexible y aplanado.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-12",
+      "question": "¿Qué serpiente despliega una capucha cuando se siente amenazada?",
+      "options": [
+        "Culebra de escalera",
+        "Boa",
+        "Cobra",
+        "Pitón"
+      ],
+      "answer": "Cobra",
+      "hint": "Extiende costillas del cuello para formar la capucha.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-13",
+      "question": "¿Qué reptil puede correr sobre el agua durante breves instantes?",
+      "options": [
+        "Basilisco",
+        "Camaleón",
+        "Gecko",
+        "Tortuga"
+      ],
+      "answer": "Basilisco",
+      "hint": "Sus patas traseras golpean rápidamente la superficie.",
+      "image": "💧"
+    },
+    {
+      "id": "33-14",
+      "question": "¿Qué reptil tiene un tercer ojo parietal sensible a la luz?",
+      "options": [
+        "Cocodrilo",
+        "Iguana",
+        "Tuátara",
+        "Tortuga"
+      ],
+      "answer": "Tuátara",
+      "hint": "Es un reptil antiguo endémico de Nueva Zelanda.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-15",
+      "question": "¿Qué tortuga es famosa por su enorme tamaño y vivir en islas?",
+      "options": [
+        "Tortuga carey",
+        "Tortuga mora",
+        "Tortuga boba",
+        "Tortuga gigante de Galápagos"
+      ],
+      "answer": "Tortuga gigante de Galápagos",
+      "hint": "Puede vivir más de cien años.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-16",
+      "question": "¿Qué cocodriliano suele tener el hocico ancho y redondeado?",
+      "options": [
+        "Gavial",
+        "Cocodrilo marino",
+        "Serpiente",
+        "Aligátor"
+      ],
+      "answer": "Aligátor",
+      "hint": "Es común en el sureste de Estados Unidos y China.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-17",
+      "question": "¿Qué reptil tiene un hocico muy largo y estrecho para pescar?",
+      "options": [
+        "Iguana",
+        "Dragón de Komodo",
+        "Aligátor",
+        "Gavial"
+      ],
+      "answer": "Gavial",
+      "hint": "Vive en ríos del subcontinente indio.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-18",
+      "question": "¿Qué serpiente constrictora es conocida por cazar mediante emboscadas?",
+      "options": [
+        "Taipán",
+        "Mamba",
+        "Cobra",
+        "Boa"
+      ],
+      "answer": "Boa",
+      "hint": "No necesita veneno para inmovilizar a sus presas.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-19",
+      "question": "¿Qué reptil tiene ventosas en los dedos y puede caminar por paredes?",
+      "options": [
+        "Iguana",
+        "Tortuga",
+        "Gecko",
+        "Caimán"
+      ],
+      "answer": "Gecko",
+      "hint": "Sus dedos tienen estructuras microscópicas adhesivas.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-20",
+      "question": "¿Qué tortuga marina tiene un pico parecido al de un halcón?",
+      "options": [
+        "Tortuga carey",
+        "Tortuga laúd",
+        "Tortuga verde",
+        "Tortuga boba"
+      ],
+      "answer": "Tortuga carey",
+      "hint": "Su pico le ayuda a extraer alimento de los arrecifes.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-21",
+      "question": "¿Qué reptil puede vivir tanto en tierra como en agua y tiene placas óseas?",
+      "options": [
+        "Cocodrilo",
+        "Camaleón",
+        "Serpiente",
+        "Gecko"
+      ],
+      "answer": "Cocodrilo",
+      "hint": "Sus ojos y fosas nasales quedan elevados al nadar.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-22",
+      "question": "¿Qué serpiente venenosa es famosa por su velocidad y color negro?",
+      "options": [
+        "Anaconda",
+        "Mamba negra",
+        "Boa esmeralda",
+        "Pitón reticulada"
+      ],
+      "answer": "Mamba negra",
+      "hint": "Su interior bucal es oscuro, no su piel necesariamente.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-23",
+      "question": "¿Qué reptil se alimenta principalmente de insectos y puede lanzar su lengua?",
+      "options": [
+        "Iguana marina",
+        "Cocodrilo",
+        "Tortuga",
+        "Camaleón"
+      ],
+      "answer": "Camaleón",
+      "hint": "Su lengua es muy rápida y pegajosa.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-24",
+      "question": "¿Qué tortuga marina es la más grande del mundo?",
+      "options": [
+        "Tortuga carey",
+        "Tortuga laúd",
+        "Tortuga verde",
+        "Tortuga boba"
+      ],
+      "answer": "Tortuga laúd",
+      "hint": "Su caparazón no tiene placas duras como otras tortugas.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-25",
+      "question": "¿Qué reptil es conocido por tomar el sol sobre rocas?",
+      "options": [
+        "Cocodrilo",
+        "Gavial",
+        "Lagartija",
+        "Serpiente marina"
+      ],
+      "answer": "Lagartija",
+      "hint": "Es ectotermo y regula su temperatura con el ambiente.",
+      "image": "☀️"
+    },
+    {
+      "id": "33-26",
+      "question": "¿Qué serpiente puede aplanar su cuerpo para planear entre árboles?",
+      "options": [
+        "Cobra real",
+        "Serpiente voladora",
+        "Boa",
+        "Víbora hocicuda"
+      ],
+      "answer": "Serpiente voladora",
+      "hint": "Se desliza por el aire en bosques del sudeste asiático.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-27",
+      "question": "¿Qué reptil tiene una mordida muy potente y vive en ríos africanos?",
+      "options": [
+        "Cocodrilo del Nilo",
+        "Gecko",
+        "Camaleón",
+        "Tortuga rusa"
+      ],
+      "answer": "Cocodrilo del Nilo",
+      "hint": "Es un gran depredador de agua dulce.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-28",
+      "question": "¿Qué lagarto marino de Galápagos se alimenta de algas?",
+      "options": [
+        "Dragón de Komodo",
+        "Camaleón",
+        "Gecko",
+        "Iguana marina"
+      ],
+      "answer": "Iguana marina",
+      "hint": "Es la única lagartija que busca alimento en el mar.",
+      "image": "🌊"
+    },
+    {
+      "id": "33-29",
+      "question": "¿Qué reptil pone huevos con cáscara flexible en nidos de arena?",
+      "options": [
+        "Tortuga marina",
+        "Serpiente",
+        "Cocodrilo",
+        "Iguana"
+      ],
+      "answer": "Tortuga marina",
+      "hint": "La temperatura del nido puede influir en el sexo de las crías.",
+      "image": "🥚"
+    },
+    {
+      "id": "33-30",
+      "question": "¿Qué serpiente es la más larga del mundo según registros fiables?",
+      "options": [
+        "Pitón reticulada",
+        "Anaconda verde",
+        "Cobra real",
+        "Mamba negra"
+      ],
+      "answer": "Pitón reticulada",
+      "hint": "Puede superar los seis metros y excepcionalmente más.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-31",
+      "question": "¿Qué reptil tiene un collar de piel alrededor del cuello?",
+      "options": [
+        "Lagarto de collar",
+        "Caimán",
+        "Gecko",
+        "Tortuga"
+      ],
+      "answer": "Lagarto de collar",
+      "hint": "Puede correr sobre las patas traseras en distancias cortas.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-32",
+      "question": "¿Qué reptil es conocido por su capacidad de permanecer inmóvil durante mucho tiempo?",
+      "options": [
+        "Gecko",
+        "Camaleón",
+        "Cocodrilo",
+        "Iguana"
+      ],
+      "answer": "Cocodrilo",
+      "hint": "La paciencia le ayuda a emboscar a sus presas.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-33",
+      "question": "¿Qué serpiente venenosa tiene cascabel en la cola?",
+      "options": [
+        "Pitón",
+        "Serpiente de cascabel",
+        "Cobra",
+        "Mamba"
+      ],
+      "answer": "Serpiente de cascabel",
+      "hint": "El sonido de sus segmentos advierte a posibles amenazas.",
+      "image": "🔔"
+    },
+    {
+      "id": "33-34",
+      "question": "¿Qué reptil tiene un caparazón con forma de cúpula alta?",
+      "options": [
+        "Iguana marina",
+        "Tortuga laúd",
+        "Gecko",
+        "Tortuga terrestre"
+      ],
+      "answer": "Tortuga terrestre",
+      "hint": "Sus patas suelen ser robustas para caminar en tierra.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-35",
+      "question": "¿Qué lagarto puede inflar una papada de colores?",
+      "options": [
+        "Gecko",
+        "Anolis",
+        "Tuátara",
+        "Cocodrilo"
+      ],
+      "answer": "Anolis",
+      "hint": "Los machos la muestran para comunicarse y defender territorio.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-36",
+      "question": "¿Qué serpiente no venenosa es conocida por estrangular presas?",
+      "options": [
+        "Pitón",
+        "Mamba",
+        "Cobra",
+        "Víbora"
+      ],
+      "answer": "Pitón",
+      "hint": "Es una serpiente constrictora.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-37",
+      "question": "¿Qué reptil tiene una lengua azul brillante?",
+      "options": [
+        "Escinco de lengua azul",
+        "Camaleón",
+        "Caimán",
+        "Iguana"
+      ],
+      "answer": "Escinco de lengua azul",
+      "hint": "La muestra como advertencia cuando se siente amenazado.",
+      "image": "👅"
+    },
+    {
+      "id": "33-38",
+      "question": "¿Qué tortuga de agua dulce puede esconder la cabeza lateralmente?",
+      "options": [
+        "Tortuga laúd",
+        "Tortuga carey",
+        "Tortuga gigante",
+        "Tortuga cuello de serpiente"
+      ],
+      "answer": "Tortuga cuello de serpiente",
+      "hint": "Dobla el cuello hacia un lado bajo el caparazón.",
+      "image": "🐢"
+    },
+    {
+      "id": "33-39",
+      "question": "¿Qué reptil es el símbolo de los pantanos de Florida?",
+      "options": [
+        "Dragón de Komodo",
+        "Aligátor americano",
+        "Iguana",
+        "Gavial"
+      ],
+      "answer": "Aligátor americano",
+      "hint": "Es frecuente en los Everglades.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-40",
+      "question": "¿Qué serpiente tiene cuernos sobre los ojos en algunas especies?",
+      "options": [
+        "Anaconda",
+        "Víbora cornuda",
+        "Culebra",
+        "Pitón"
+      ],
+      "answer": "Víbora cornuda",
+      "hint": "Sus pequeñas escamas supraoculares parecen cuernos.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-41",
+      "question": "¿Qué reptil puede cambiar la textura y el tono de su piel para camuflarse?",
+      "options": [
+        "Tortuga",
+        "Cocodrilo",
+        "Tuátara",
+        "Camaleón"
+      ],
+      "answer": "Camaleón",
+      "hint": "El cambio también sirve para regular temperatura y comunicarse.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-42",
+      "question": "¿Qué tortuga tiene un caparazón de aspecto estrellado?",
+      "options": [
+        "Tortuga verde",
+        "Tortuga estrellada",
+        "Tortuga boba",
+        "Tortuga laúd"
+      ],
+      "answer": "Tortuga estrellada",
+      "hint": "Presenta líneas amarillas radiales sobre placas oscuras.",
+      "image": "⭐"
+    },
+    {
+      "id": "33-43",
+      "question": "¿Qué reptil es famoso por abrir la boca para regular su temperatura?",
+      "options": [
+        "Gecko",
+        "Serpiente",
+        "Camaleón",
+        "Cocodrilo"
+      ],
+      "answer": "Cocodrilo",
+      "hint": "El comportamiento se conoce como gaping.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-44",
+      "question": "¿Qué serpiente marina tiene una cola aplanada como remo?",
+      "options": [
+        "Serpiente marina",
+        "Boa",
+        "Culebra de collar",
+        "Pitón"
+      ],
+      "answer": "Serpiente marina",
+      "hint": "La cola facilita la natación en el océano.",
+      "image": "🌊"
+    },
+    {
+      "id": "33-45",
+      "question": "¿Qué lagarto puede desprenderse de la cola como mecanismo defensivo?",
+      "options": [
+        "Tortuga",
+        "Cocodrilo",
+        "Tuátara",
+        "Lagartija"
+      ],
+      "answer": "Lagartija",
+      "hint": "La cola desprendida puede seguir moviéndose y distraer al depredador.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-46",
+      "question": "¿Qué reptil tiene una coraza formada por placas y puede vivir en zonas áridas?",
+      "options": [
+        "Tortuga marina",
+        "Iguana marina",
+        "Caimán",
+        "Tortuga del desierto"
+      ],
+      "answer": "Tortuga del desierto",
+      "hint": "Puede excavar refugios para evitar el calor extremo.",
+      "image": "🏜️"
+    },
+    {
+      "id": "33-47",
+      "question": "¿Qué cocodriliano es conocido por saltar para atrapar presas?",
+      "options": [
+        "Gavial",
+        "Gecko",
+        "Cocodrilo",
+        "Tortuga"
+      ],
+      "answer": "Cocodrilo",
+      "hint": "Puede impulsarse desde el agua con gran fuerza.",
+      "image": "🐊"
+    },
+    {
+      "id": "33-48",
+      "question": "¿Qué reptil suele mudar la piel a medida que crece?",
+      "options": [
+        "Tuátara",
+        "Serpiente",
+        "Cocodrilo",
+        "Tortuga"
+      ],
+      "answer": "Serpiente",
+      "hint": "La muda se llama ecdisis.",
+      "image": "🐍"
+    },
+    {
+      "id": "33-49",
+      "question": "¿Qué reptil tiene una bolsa gular que puede desplegar?",
+      "options": [
+        "Gavial",
+        "Cobra",
+        "Tortuga",
+        "Dragón barbudo"
+      ],
+      "answer": "Dragón barbudo",
+      "hint": "La barba se oscurece y se expande cuando se siente amenazado.",
+      "image": "🦎"
+    },
+    {
+      "id": "33-50",
+      "question": "¿Qué reptil tiene una cola larga que utiliza para mantener el equilibrio?",
+      "options": [
+        "Cocodrilo",
+        "Tortuga",
+        "Gavial",
+        "Iguana"
+      ],
+      "answer": "Iguana",
+      "hint": "Es un lagarto que suele tomar el sol sobre ramas y rocas.",
+      "image": "🦎"
+    }
+  ]
+}

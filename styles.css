@@ -1,0 +1,397 @@
+
+:root {
+    --green: #070505;
+    --ink: #20342d;
+    --muted: #718078;
+    --line: #e6ebe5;
+    --mint: #eaf6ef;
+
+    --background: #fbfaf5;
+    --white: #ffffff;
+    --red: #d94b4b;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--background);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+}
+
+button {
+    border-radius: 9px;
+    padding: 12px 17px;
+    font: 700 13px 'DM Sans', sans-serif;
+    cursor: pointer;
+}
+
+h2 {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.hidden {
+    display: none !important;
+}
+
+header {
+    height: 72px;
+    background: var(--white);
+    border-bottom: 1px solid var(--line);
+
+    padding: 0 6%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: var(--muted);
+    font-size: 13px;
+}
+
+header a {
+    font: 700 25px 'Fredoka', sans-serif;
+    color: var(--ink);
+    text-decoration: none;
+}
+
+main {
+    max-width: 1000px;
+    margin: 38px auto;
+    padding: 0 22px;
+}
+
+.hero {
+    background: #e9f4e9;
+    border-radius: 24px;
+    padding: 42px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero small,
+.result small {
+    color: var(--green);
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.hero h1,
+.result h1 {
+    font: 700 52px/1.05 'Fredoka', sans-serif;
+    margin: 12px 0;
+}
+
+.hero p {
+    color: var(--muted);
+}
+
+.heroArt {
+    font-size: 80px;
+}
+
+.hero label {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 22px;
+}
+
+.hero input {
+    display: block;
+    margin-top: 8px;
+
+    padding: 12px;
+    border: 1px solid #13c9de;
+    border-radius: 9px;
+
+    font: inherit;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.quiz-card {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+
+    padding: 22px;
+
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    font: inherit;
+    font-size: 35px;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.quiz-card:hover {
+    border-color: var(--green);
+    transform: translateY(-3px);
+}
+
+.quiz-card b {
+    font: 600 20px 'Fredoka', sans-serif;
+}
+
+.quiz-card small {
+    font-size: 12px;
+    color: var(--muted);
+}
+
+.ranking,
+.card {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+
+    padding: 25px;
+    margin-top: 30px;
+}
+
+.ranking h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ranking button,
+#quitQuiz,
+#clearRanking {
+    border: 0;
+    background: none;
+    color: var(--green);
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.ranking li {
+    padding: 6px;
+}
+
+
+.quizTop,
+.meta {
+    display: flex;
+    justify-content: space-between;
+
+    color: var(--muted);
+    font-size: 13px;
+}
+
+
+.track {
+    height: 7px;
+    background: #e4ece5;
+    border-radius: 10px;
+    margin: 18px 0;
+}
+
+.track div {
+    height: 100%;
+    background: var(--green);
+    width: 0;
+
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.card {
+    max-width: 720px;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.animal {
+    text-align: center;
+    font-size: 65px;
+    margin: 18px;
+}
+
+.card h2 {
+    text-align: center;
+    font-size: 27px;
+}
+
+.answers {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.answer {
+    padding: 14px;
+
+    text-align: left;
+
+    border: 1px solid var(--line);
+    border-radius: 10px;
+
+    background: var(--white);
+
+    cursor: pointer;
+
+    font: 600 14px 'DM Sans', sans-serif;
+}
+
+.answer.selected {
+    background: var(--mint);
+    border: 2px solid var(--green);
+}
+
+.answer.correct {
+    background: #e2f5e9;
+    border: 2px solid var(--green);
+    color: #18bed8;
+}
+
+.answer.wrong {
+    background: #fff0ef;
+    border: 2px solid var(--red);
+    color: #b53232;
+}
+
+.answer:disabled {
+    cursor: default;
+}
+
+#feedback {
+    text-align: center;
+    min-height: 24px;
+
+    font-weight: 700;
+    font-size: 13px;
+}
+
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+
+
+/* Botón de comprobar respuesta */
+
+#confirmButton,
+#backHome {
+    background: var(--green);
+    color: var(--white);
+    border: 0;
+}
+
+#confirmButton:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+
+/* Botones de pista y repetir */
+
+#hintButton,
+#playAgain {
+    background: #f1f8f2;
+    border: 1px solid #10a2ce;
+    color: var(--green);
+}
+
+.result {
+    text-align: center;
+}
+
+.result .card {
+    max-width: 500px;
+    padding: 40px;
+}
+
+.score {
+    font: 700 48px 'Fredoka', sans-serif;
+    color: var(--green);
+    margin: 22px;
+}
+
+
+footer {
+    text-align: center;
+    color: #1773e4;
+
+    padding: 30px;
+    font-size: 12px;
+}
+
+
+@media (max-width: 650px) {
+
+    /* Cabecera */
+
+    header span {
+        display: none;
+    }
+
+
+    /* Presentación */
+
+    .hero {
+        padding: 25px;
+    }
+
+    .hero h1 {
+        font-size: 38px;
+    }
+
+    .heroArt {
+        font-size: 42px;
+    }
+
+
+    /* Categorías */
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .quiz-card {
+        display: grid;
+        grid-template-columns: 45px 1fr;
+        align-items: center;
+    }
+
+    .quiz-card small {
+        grid-column: 2;
+    }
+
+
+    /* Preguntas */
+
+    .answers {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+
+    /* Nombre del jugador */
+
+    .hero input {
+        max-width: 100%;
+        width: 100%;
+    }
+
+}
